@@ -19,7 +19,7 @@
         "username": "aliraza",
         "password": "aliraza",
         "expirydate": "31-12-2027",
-        "Allowoffline": true
+        "Allowoffline": false
     }
 ]
 
